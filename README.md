@@ -1,2 +1,2 @@
 # PythonPrograms
-All my pure python pprograms
+All my pure python programs
