@@ -19,7 +19,7 @@ def word_count(sentence, word):
     return num_of_word
 
 
-file1 = open(r"C:\Users\Simmi\Downloads\String.txt", "r")
+file1 = open(r"String.txt", "r")
 string1 = file1.read()
 print(string1)
 split = string1.rsplit(" ")
