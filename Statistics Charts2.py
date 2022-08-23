@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import time
 values = []
 labels = []
-file = open(r"C:\Users\Simmi\Downloads\Pie Chart - Sheet1-1.txt", "r")
+file = open(r"Pie Chart - Sheet1-1.txt", "r")
 for x in file:
     List1 = str(x)
     List = List1.rsplit(",")
